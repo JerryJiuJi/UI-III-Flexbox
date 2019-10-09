@@ -101,13 +101,14 @@ h1, h2, h3, h4, h5 {
 	
   }
 
-  #logo {
-	font-size: 14px;
+  a #logo {
+      /* display: flex; */
+	font-size: 30px;
 	/* border: 5px solid black; */
 	/* height: 100px; */
 	padding: 20px;
-	width: 25%;
-	margin-right: 40px;
+	width: 90%;
+	margin-right: 100px;
 
 
 	
@@ -229,7 +230,7 @@ footer {
 
 copyright {
     text-align: center;
-    border: solid black;
+    border: solid red;
     width: 100%;
     height: 30px;
 }
